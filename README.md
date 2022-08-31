@@ -230,3 +230,12 @@ Another important point is that every time I use `<` and `>` you have to replace
 
 #### Items
 
+## Controlling Virtual Machines
+
+### VMware Workstation Player
+
+### VMware Remote Console
+
+### Oracle VirtualBox
+
+## Controlling Docker
