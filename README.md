@@ -27,9 +27,9 @@ I assume that you use Minium Windows 10.
 
 ### Enable Wake on LAN
 
-### Installing PsTools
-
 ### Adding Linux tools to Windows
+
+### Installing PsTools
 
 ## Our little helper which
 
